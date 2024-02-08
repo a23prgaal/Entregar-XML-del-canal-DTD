@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv>
+<channel id="Telecinco.TV">
+<display-name>Telecinco.TV</display-name>
+</channel>
+<programme channel="Telecinco.TV" start="20240206060000 +0000" stop="20240206075500 +0000">
+      <title>Informativos Telecinco matinal</title>
+      <desc>Primera edición informativa de la cadena presentada por Arancha Morales y Laila Jiménez. El noticiario matinal ofrece un seguimiento de las noticias de la jornada anterior junto a lo más destacado de la información deportiva nacional e internacional.</desc>
+      <date>01-03-2024</date>
+      <category>Informativo</category>
+      <language>Español</language>      
+      <icon src="https://www.movistarplus.es/recorte/n/caratula4/MT5P3218432"/>
+      <country> España</country>
+      <episode-num>6473</episode-num>
+    
+   </programme>
+
+    <programme channel="Telecinco.TV" start="20240206140000 +0000" stop="20240206143000 +0000">
+      <title>Informativos Telecinco</title>
+      <desc>Edición de mediodía de Informativos Telecinco que ofrece los acontecimientos más relevantes acaecidos durante la mañana. Las principales noticias de ámbito nacional e internacional son recogidas por Isabel Jiménez y Ángeles Blanco.</desc>
+     <date>01-03-2024</date>      
+      <category>Informativo</category>
+      <language>Español</language>      
+      <icon src="https://www.movistarplus.es/recorte/n/caratula4/MT5P3218428"/>
+      <country> España</country>
+      <episode-num>6474</episode-num>
+    </programme>
+
+    <programme channel="Telecinco.TV" start="20240206200000 +0000" stop="20240206203500 +0000">
+    <title>Informativos Telecinco</title>
+    <desc>Informativo vespertino que incluye las principales noticias que se han producido durante la jornada.</desc>
+    <date>01-03-2024</date>
+    <category>Informativo</category>
+    <language>Español</language>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MT5P3218430"/>
+    <country> España</country>
+    <episode-num>6475</episode-num>
+    </programme>
+
+    <programme channel="Telecinco.TV" start="20240207060000 +0000" stop="20240207075500 +0000">
+    <title>Informativos Telecinco matinal</title>
+    <desc>Primera edición informativa de la cadena presentada por Arancha Morales y Laila Jiménez. El noticiario matinal ofrece un seguimiento de las noticias de la jornada anterior junto a lo más destacado de la información deportiva nacional e internacional.</desc>
+    <date>01-03-2024</date>    
+    <category>Informativo</category>
+    <language>Español</language>    
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MT5P3218432"/>
+    <country> España</country>
+    <episode-num>6476</episode-num>
+    </programme>
+
+    <programme channel="Telecinco.TV" start="20240207140000 +0000" stop="20240207143000 +0000">
+    <title>Informativos Telecinco</title>
+    <desc>Edición de mediodía de Informativos Telecinco que ofrece los acontecimientos más relevantes acaecidos durante la mañana. Las principales noticias de ámbito nacional e internacional son recogidas por Isabel Jiménez y Ángeles Blanco.</desc>
+    <date>02-03-2024</date>    
+    <category>Informativo</category>
+    <language>Español</language>   
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MT5P3218428"/>
+    <country> España</country>
+    <episode-num>6477</episode-num>
+    </programme>
+
+    <programme channel="Telecinco.TV" start="20240207200000 +0000" stop="20240207203500 +0000">
+    <title>Informativos Telecinco</title>
+    <desc>Informativo vespertino que incluye las principales noticias que se han producido durante la jornada.</desc>
+    <date>02-03-2024</date>        
+    <category>Informativo</category>
+    <language>Español</language>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MT5P3218430"/>
+    <country> España</country>
+    <episode-num>6478</episode-num>
+    </programme>
+
+    <programme channel="Telecinco.TV" start="20240208060000 +0000" stop="20240208075500 +0000">
+    <title>Informativos Telecinco matinal</title>
+    <desc>Primera edición informativa de la cadena presentada por Arancha Morales y Laila Jiménez. El noticiario matinal ofrece un seguimiento de las noticias de la jornada anterior junto a lo más destacado de la información deportiva nacional e internacional.</desc>
+    <date>03-03-2024</date>        
+    <category>Informativo</category>
+    <language>Español</language>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MT5P3218432"/>
+    <country> España</country>
+    <episode-num>6479</episode-num>
+    </programme>
+
+
+    <programme channel="Telecinco.TV" start="20240208140000 +0000" stop="20240208143000 +0000">
+    <title>Informativos Telecinco</title>
+    <desc>Edición de mediodía de Informativos Telecinco que ofrece los acontecimientos más relevantes acaecidos durante la mañana. Las principales noticias de ámbito nacional e internacional son recogidas por Isabel Jiménez y Ángeles Blanco.</desc>
+    <date>03-03-2024</date>    
+    <category>Informativo</category>
+    <language>Español</language>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MT5P3218428"/>
+    <country> España</country>
+    <episode-num>6480</episode-num>
+    </programme>
+
+
+    <programme channel="Telecinco.TV" start="20240208200500 +0000" stop="20240208203500 +0000">
+    <title>Informativos Telecinco</title>
+    <desc>Informativo vespertino que incluye las principales noticias que se han producido durante la jornada.</desc>
+    <date>03-03-2024</date>    
+    <category>Informativo</category>
+    <language>Español</language>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MT5P3218430"/>
+    <country> España</country>
+    <episode-num>6473</episode-num>
+    </programme>
+    
+
+
+
+</tv>
+
+  
